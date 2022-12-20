@@ -1,1 +1,2 @@
-ola amigos esse atirgo tem o intuito de ensinar as vs
+# API CRUD
+api de crud basica
